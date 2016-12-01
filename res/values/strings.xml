@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="main_name">yubase</string>
+    
+    <string name="app_name">开发框架</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="pull_to_refresh">下拉刷新</string>
+    <string name="release_to_refresh">释放立即刷新</string>
+    <string name="refreshing">正在刷新...</string>
+    <string name="refresh_succeed">刷新成功</string>
+    <string name="refresh_fail">刷新失败</string>
+    <string name="pullup_to_load">上拉加载更多</string>
+    <string name="release_to_load">释放立即加载</string>
+    <string name="loading">正在加载...</string>
+    <string name="load_ing">加载中...</string>
+    <string name="load_succeed">加载成功</string>
+    <string name="load_fail">加载失败</string>
+    <string name="error">内存超标了!即将重启</string>
+    <string name="app_notice_tip_warn_2">温馨提示</string>
+    
+    <!--字体图标资源 -->
+    <string name="if_iconfont">iconfont/iconfont.ttf</string>
+    
+        <string name="icon_tips">&#xe65d;</string>    <!--警示 -->
+    <string name="icon_finish">&#xe659;</string>    <!-- 完成 -->
+    
+    
+    <!-- 欢迎界面 -->
+    <string name="copyright">Copyright © 2015 jinxqc.com All rights reserved</string>
+
+    <!-- 这里是YuEditText资源 -->
+    <string-array name="register_password_info">
+        <item>安全程度:<![CDATA[ <font color="#f37301">低</font> ]]></item>
+        <item>安全程度:<![CDATA[ <font color="#f37301">中</font>]]></item>
+        <item>安全程度:<![CDATA[ <font color="#f37301">高</font> ]]></item>
+    </string-array>
+    <string-array name="yu_change_info">
+        <item>投资者已赚取收益￥3,081,601.29</item>
+        <item>累计已还（万）￥19,360.97</item>
+        <item>累计投资(万)￥29,718.37</item>
+    </string-array>
+
+  
+
+</resources>

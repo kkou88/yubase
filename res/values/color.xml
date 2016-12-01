@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="white">#FFFFFF</color>
+    <color name="orange_gray">#f8e4c69e</color>
+    <color name="black">#000000</color>
+    <color name="black_text">#4c4947</color>
+    <color name="black_text_shallow">#756e69</color>
+    <!-- <color name="black_text">#756e69</color> -->
+    <color name="blue_gray_text">#c5bbb3</color>
+    <color name="gray">#a9a39e</color>
+    <color name="gray2">#6a6764</color>
+    <color name="gray3">#c87c7975</color>
+    <color name="light_blue">#6593cb</color>
+    <color name="gray_line">#d3ccc0</color>
+    <color name="gray_text_tran">#c8c0ccd3</color>
+    <color name="gray_line1">#a5dbdad8</color>
+    <color name="gray_bg">#eeeeee</color>
+    <!-- <color name="gray_bg">#ebe7e3</color> -->
+    <color name="gray_bg1">#f2f2f2</color>
+    <color name="gray_payment">#f77b28</color>
+    <color name="gray_pro_bg">#eeeeee</color>
+    <color name="gray_pro_text">#989898</color>
+    <color name="green_text">#50bac8</color>
+    <color name="gray_circle_progress_bar">#edecea</color>
+    <color name="blue_green_text">#bf5b0b</color>
+    <color name="main_bg">#FFFFFF</color>
+    <color name="main_staus_color">#f69328</color>
+    <color name="brown_text">#b86809</color>
+    <color name="brown_text_shallow">#f69d27</color>
+    <color name="skin_bg">#ffe3be</color>
+    <color name="red">#FF4400</color>
+    <color name="green">#66C32A</color>
+
+    <!-- 产品详情 -->
+    <color name="pd_icon1">#ffbb5e</color>
+    <color name="pd_icon2">#ff9450</color>
+    <color name="pd_icon3">#ff571e</color>
+    <color name="dialog_bg">#f0ffffff</color>
+    <color name="tini_black">#555555</color>
+    <color name="dialog_item_click">#f5f5f5</color>
+    <color name="write_text">#F5F5F5</color>
+    <color name="write_text_80">#50F5F5F5</color>
+    <color name="write_text_a">#c8F5F5F5</color>
+    <color name="password_eye">#c8F5F5F5</color>
+    <color name="transparent">#00000000</color>
+    <color name="transparent_valid_pressed">#19ffffff</color>
+    <color name="line_real_name">#b2b2b2</color>
+    <color name="yellow_ffcc99">#ffcc99</color>
+    <color name="yellow_1">#f2c700</color>
+    <color name="text_title">#986029</color>
+    <color name="organe">#e6633b</color>
+    <color name="organe_main">#ff6633</color>
+    <color name="top_color">#e6633b</color>
+    <color name="click_clor">#e6633b</color>
+    <color name="blue">#f69d29</color>
+    <color name="blue_bg">#e5f69d29</color>
+    <color name="blue_deep">#bb7923</color>
+    <color name="blue_deep2">#271905</color>
+    <color name="blue_press">#f38b11</color>
+    <color name="mine_function_text_press">#fdfbf6</color>
+    <color name="main_icon1">#fedb98</color>
+    <color name="main_icon2">#ffb17d</color>
+    <color name="main_icon3">#eb6946</color>
+    <!-- 资产明细颜色 -->
+    <color name="amd_payment_wait">#e6633b</color>
+    <color name="amd_freeze_money">#2c75c7</color>
+    <color name="amd_can_use_money">#91dfa3</color>
+    <color name="amd_total_money">#91dfa3</color>
+    <color name="amd_total_get_money">#91dfa3</color>
+
+    <!-- 银行卡背景颜色 -->
+    <color name="bc_bg_gsyh">#C40004</color>
+    <color name="bc_bg_gdyh">#F2C700</color>
+    <color name="bc_bg_hxyh">#D80C18</color>
+    <color name="bc_bg_nyyh">#009882</color>
+    <color name="bc_bg_zgyh">#A71E32</color>
+    <color name="bc_bg_jtyh">#003777</color>
+    <color name="bc_bg_zxyh">#C9161D</color>
+    <color name="bc_bg_bjyh">#CB030D</color>
+    <color name="bc_bg_dyyh">#ED171F</color>
+    <color name="bc_bg_shyh">#F49E00</color>
+    <color name="bc_bg_wzyh">#F8BF2C</color>
+    <color name="bc_bg_payh">#F15922</color>
+    <color name="bc_bg_hbyh">#00517E</color>
+    <color name="bc_bg_wsyh">#C20F15</color>
+    <color name="bc_bg_tjyh">#015AAC</color>
+    <color name="bc_bg_jsyh">#0066B3</color>
+    <color name="bc_bg_zsyh">#B1120D</color>
+    <color name="bc_bg_msyh">#00A65D</color>
+    <color name="bc_bg_xyyh">#004097</color>
+    <color name="bc_bg_pfyh">#003473</color>
+    <color name="bc_bg_yzyh">#018263</color>
+    <color name="bc_bg_gfyh">#E60021</color>
+
+</resources>
